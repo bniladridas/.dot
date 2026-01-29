@@ -6,7 +6,7 @@ A beautiful Blazor WebAssembly website with an inspiring story about digital cre
 
 Creates a complete Blazor WebAssembly application deployable to GitHub Pages with:
 - **Story Page** — "The Digital Garden", a beautiful narrative about a developer's journey
-- **Interactive Counter** — Classic Blazor component demonstrating WebAssembly functionality  
+- **Interactive Counter** — Classic Blazor component demonstrating WebAssembly functionality
 - **Weather Display** — Sample data visualization with Bootstrap styling
 - **GitHub Actions** — Automated CI/CD pipeline for seamless deployment
 - **Pre-commit Hooks** — Code quality enforcement with trailing whitespace and file formatting
